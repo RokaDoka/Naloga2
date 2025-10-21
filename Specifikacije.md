@@ -1,3 +1,10 @@
+## Izgled
+- **Minimalističen izgled**
+- **Enovitna barvna shema**
+- Minimalne animacije premičnih elementov
+- Zadostna količina nevsiljivih oglasov
+
+[Zgled](https://www.amazon.com/)
 ## Funkcionalnosti
 
 1. Kupovanje izdelkov - *Uporabniki lahko kupijo izdelke*
