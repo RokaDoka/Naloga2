@@ -1,7 +1,5 @@
 # AMAZON
-[amazon]([https://www.example.com](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png))
-
-
+![amazon](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png)
 | Name   |      ABC      |  Job |
 |----------|:-------------:|------:|
 | Timotej |  A| Dev |
