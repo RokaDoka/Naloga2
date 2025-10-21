@@ -1,3 +1,11 @@
+## Funkcionalnosti
+
+1. Kupovanje izdelkov - *Uporabniki lahko kupijo izdelke*
+2. Iskanje Izdelkov - *Uporabniki lahko iščejo izdelke*
+3. Košarica Izdelkov - *Uporabnik lahko izdelke da v košarico*
+4. Sortiranje Izdelkov - *Uporabnik lahko izdelke sortira po različnih parametrih*
+
+# 🛍️🛒🏣📮
 # AMAZON
 [amazon]([https://www.example.com](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png))
 
